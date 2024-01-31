@@ -1,0 +1,19 @@
+@import url(./header.css);
+@import url(./content.css);
+@import url(./sidebar.css);
+@import url(./footer.css);
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    list-style: none;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

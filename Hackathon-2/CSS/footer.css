@@ -1,0 +1,79 @@
+.foot{
+margin-top: 160px;
+background-color: rgb(40, 36, 108);
+}
+.foot-sel{
+display: flex;
+flex-direction: column;
+gap:20px;
+width: 392px;
+font-size: 14px;
+}
+.foot-sel img{
+    height: 20px;
+}
+.foot-sel p{
+    color: rgb(155, 147, 147);
+}
+.sel b{
+    color: rgb(211, 218, 225);
+}
+.sel{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+}
+.foot-icon{
+    color: rgb(174, 160, 160);
+    font-size: large;
+}
+.bot-foo{
+display: flex;
+flex-direction: row;
+gap:70px;
+}
+.bot-foo b{
+    color: rgb(218, 231, 231);
+}
+.bot-foo p{
+    color: rgb(165, 162, 162);
+}
+.list-co{
+display: flex;
+flex-direction: column;
+gap:10px;
+}
+.dis-foot{
+    display: flex;
+    flex-direction: row;
+    padding-top: 60px;
+    padding-left: 200px;
+    gap:220px;
+}
+.hr3{
+    margin-top: 30px;
+    color: grey;
+}
+.last p:first-child{
+    color: rgb(182, 182, 182);
+}
+.last p:last-child{
+    color: rgb(48, 99, 170);
+}
+.last{
+display: flex;
+flex-direction: row;
+margin-left: 200px;
+gap:400px;
+margin-top: 20px;
+}
+.dot{
+    background-color: red;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+.dot_setting{
+    display: flex;
+    flex-direction: row;
+}
